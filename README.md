@@ -1,2 +1,2 @@
 # ComputerVision-Notebooks
-Some Jupyter Notebooks for Computer Vision tasks.
+I have done some work for college and I wanted to post it on github. It shows my progress in the Computer Vision Field.
